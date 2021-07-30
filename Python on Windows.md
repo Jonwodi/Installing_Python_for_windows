@@ -1,4 +1,5 @@
 # Installing Python
-First, check whether Python is installed on your system. Open a command window by entering command into the Start menu or by holding down the SHIFT key while right-clicking on your desktop and selecting Open command window here from the menu. 
+First, check whether Python is installed on your system. Open a command window by entering command into the Start menu or by holding down the SHIFT key while right-clicking on your desktop and selecting Open command window here from the menu. In the terminal window, enter python in lowercase. If you get a Python prompt (>>>) in response, Python is installed on your system. If you see an error message telling you that python is not a recognized command, Python isn't installed. In that case, or if you see a version of Python earlier than Python 3.6, you need to downlaod a Python installer for Windows. Go to https://python.org/ and hover over the Downloads link. You should see a button for downloading the latest version of Python. Click the button, which should automatically start downloading the correct installer for your system. After you've downlaoded the file, run the installer. Make sure you select the option Add Python to PATH, which will make it easier to configure your sytem correctly.
 
-In the terminal window, enter python in lowercase. If you get a Python (>>>) in response, Pyhton is installed on your system. If you see an error message telling you that python is not a recognized command, Python isn't installed.
+# Running Python in a Terminal Session
+
