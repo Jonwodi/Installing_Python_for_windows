@@ -12,7 +12,7 @@
 
 """ Step 7: also if you have a python version that is earlier than python 3.6, you should also download the latset release of python. """
 
-""" Step 8: to download python for your windows computer system go to htStep 1:tps://www.python.org/ and hover over the Downlaods link. You should see a button dor downlaoding the latest version of python for your computer system. Click the button, which should automatically start downlaoding a python version that is compatiable with your computer system. """
+""" Step 8: to download python for your windows computer system go to htStep 1:https://www.python.org/ and hover over the Downlaods link. You should see a button dor downlaoding the latest version of python for your computer system. Click the button, which should automatically start downlaoding a python version that is compatiable with your computer system. """
 
 """ Step 9: once the python file has finished downloading, open it up and click run. Finally, before you install python onto your computer system, make sure to select the option 'Add Python to PATH'. Then click install. """
 
